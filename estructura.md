@@ -1,0 +1,1 @@
+En este laboratorio crearás tu primer repositorio en GitHub, trabajarás con ramas y commits, y abrirás tu primer Pull Request. Al finalizar habrás practicado el flujo básico de Git de extremo a extremo y establecido la estructura mínima de un repositorio.
